@@ -1,0 +1,89 @@
+body{
+    margin: 0;
+    font-family: Raleway,sans-serif
+}
+h1{
+    margin: 0%;
+    font-weight: 500;
+    font-size: 2rem;
+}
+header{
+    background-image: url(../img/bg-header.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 72em;
+    background-position: center;
+    margin: 0%;   
+}
+nav{
+    color: white;
+    background-color: black;
+    height: 3em;
+    padding-top: 0.5em;
+}
+.descripcion{
+    display: flow-root;
+    padding: 5% 10%;
+    background-color: black;
+    color: white;  
+    font-weight: 300;
+    
+}
+.descripcion img{
+    width: 35%;
+    padding: 0 3em;
+    
+}
+.descripcion p{
+    height:14em;
+    padding: 0 3em;
+    float: left;
+    width: 45%;
+    text-align: left;
+}
+.caracteristicas{
+    background-color: #1e1a13;
+    color: white;
+    display: flow-root;    
+}
+.caracteristicas h2{
+    font-size: 2rem;
+    font-weight: 500;
+    padding-top: 1em;
+    padding-bottom: 0.5em;   
+}
+.icono-texto{
+    float: left;  
+    padding: 1em 1em; 
+    
+}
+.icono-texto h3{
+    font-weight: 300;
+    
+}
+.icono-texto i{
+    font-size: 3em; 
+    padding: 0 3.5em;
+}
+
+.fotos{
+    text-align: center;
+    padding:  2em 6em;
+    background-color: black;
+}
+.fotos img{
+    height:12em;
+    padding: 2em;
+}
+.centrado{
+    text-align: center;
+}
+footer{
+    height: 4em;
+    background-color: #1e1a13;
+    padding-top: 1em;  
+}
+a{
+    color: white;
+    text-decoration: none;
+}
