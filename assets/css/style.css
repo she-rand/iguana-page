@@ -44,7 +44,8 @@ nav{
 .caracteristicas{
     background-color: #1e1a13;
     color: white;
-    display: flow-root;    
+    display: flow-root;
+    padding: 0 3em;    
 }
 .caracteristicas h2{
     font-size: 2rem;
@@ -54,7 +55,7 @@ nav{
 }
 .icono-texto{
     float: left;  
-    padding: 1em 1em; 
+    padding: 2em 3em; 
     
 }
 .icono-texto h3{
@@ -63,7 +64,7 @@ nav{
 }
 .icono-texto i{
     font-size: 3em; 
-    padding: 0 3.5em;
+    padding: 0 3em;
 }
 
 .fotos{
